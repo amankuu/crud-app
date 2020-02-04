@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
-
+.container{
+  display:flex;
+  width:100%;
+  background-color:skyblue;
+}
+.navbar-list{
+  float:left;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
